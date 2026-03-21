@@ -1,5 +1,8 @@
 <h1 align="center"> 𝐒𝐏𝐀𝐂𝐄 𝐌𝐃 </h1>
 
+
+## NOTE: THIS PROJECT IS NO LONGER MAINTAINED, KINDLY LOOK FOR OTHER ALTERNATIVES!!!
+
 <p align="center">
   <a href="https://github.com/Dark-Xploit/SPACE-MD">
     <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
